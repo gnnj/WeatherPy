@@ -1,9 +1,11 @@
 
 # Analysis
 
-1)
-2)
-3)
+1) The Latitude vs Temperature Plot shows that the temperatures are lower as you go further away from the equator.
+
+2) The Latitude vs Temperature Plot also shows significantly lower temps north of the equator, since it is winter north of the equator and summer south of the equator.
+
+3) The 3 other plots show that humidity, cloudiness, and wind speed are not effected by how far away a city is from the equator.
 
 
 ```python
